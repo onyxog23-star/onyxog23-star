@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sangliana 👋
 
-I'm an **Product builder** from India. I turn ideas into working websites, landing pages, automations and AI agents, using Claude, ChatGPT, Lovable and Make.com, and I ship them.
+I'm a **Product builder** from India. I turn ideas into working websites, landing pages, automations and AI agents, using Claude, ChatGPT, Lovable and Make.com, and I ship them.
 
 ### 🛠️ Projects
 
