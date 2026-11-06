@@ -1,8 +1,8 @@
-<img alt="Sangliana Khiangte · AI-Powered Product Builder" src="https://raw.githubusercontent.com/onyxog23-star/onyxog23-star/main/dark.svg">
+<img alt="Sangliana Khiangte · Product Builder" src="https://raw.githubusercontent.com/onyxog23-star/onyxog23-star/main/dark.svg">
 
 ### Hi, I'm Sangliana 👋
 
-I'm an **AI-powered product builder** from India. I turn ideas into working websites, landing pages, automations and AI agents, using Claude, ChatGPT, Lovable and Make.com, and I ship them.
+I'm an **Product builder** from India. I turn ideas into working websites, landing pages, automations and AI agents, using Claude, ChatGPT, Lovable and Make.com, and I ship them.
 
 ### 🛠️ Projects
 
