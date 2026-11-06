@@ -22,7 +22,7 @@ I'm a **Product builder** from India. I turn ideas into working websites, landin
 </div>
 
 <div align="center">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/onyxog23-star/onyxog23-star/output/github-snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/onyxog23-star/onyxog23-star/output/github-snake-green.svg" />
 </div>
 
 ### 📫 Connect
